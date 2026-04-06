@@ -76,6 +76,7 @@ Models were evaluated using:
 * Linear Regression and Ridge performed similarly
 * Linear Regression achieved the highest R²
 * Lasso performed slightly worse
+* The best model achieved an R² score of approximately 0.34
 
 # Key Findings
 
@@ -145,6 +146,7 @@ prompt_II.ipynb
 
 This project demonstrates how data cleaning, feature engineering, and regression modeling can be used to extract meaningful insights from real-world data. The results provide practical guidance for improving used car inventory and pricing decisions.
 
+## Notebook
 
-
-Your Name
+View the full analysis here:
+- prompt_II.ipynb
